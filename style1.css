@@ -1,0 +1,12 @@
+main{
+    display: grid;
+    grid-template-columns: repeat(4,2fr);
+    width: 1200px;
+}
+.item{
+    margin: 10px;
+}
+img{
+    width: 300px;
+    height: 150px;
+}
